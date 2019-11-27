@@ -1,117 +1,113 @@
 {
-  "projects": [
+  "public": [
     [
       {
         "name": "Fall in Bed",
-        "discription": "Ein cooles Jump and Run fuer die #gppcc11 --> YouTube link",
-        "folder_name": "https://www.youtube.com/watch?v=KWZzq7L2Mb8"
+        "description": "Ein cooles Jump and Run fuer die #gppcc11",
+        "link": "https://www.youtube.com/watch?v=KWZzq7L2Mb8"
       },
       {
         "name": "Tesla Pong",
-        "discription": "Eine Spiel App die auf Android zur verf�gung steht.",
-        "folder_name": "https://play.google.com/store/apps/details?id=com.CanicsMotion.TeslaPong"
+        "description": "Eine Spiel App die auf Android zur verfügung steht.",
+        "link": "https://play.google.com/store/apps/details?id=com.CanicsMotion.TeslaPong"
       },
       {
         "name": "Runner Run",
-        "discription": "sehr kleines Runner Spiel",
-        "folder_name": "https://github.com/janekx21/RunnerRun"
+        "description": "sehr kleines Runner Spiel",
+        "link": "https://github.com/janekx21/RunnerRun"
       },
       {
         "name": "Web Uhr",
-        "discription": "Schulproject mit favoriten Plugin",
-        "folder_name": "webProjects/project07",
-        "outdate": 0
+        "description": "Schulproject mit favoriten Plugin",
+        "link": "webProjects/project07"
       },
       {
         "name": "Hardest Challange",
-        "discription": "super kleines Strategiespiel",
-        "folder_name": "https://github.com/janekx21/HardestChallange"
+        "description": "super kleines Strategiespiel",
+        "link": "https://github.com/janekx21/HardestChallange"
       }
     ],
     [
       {
         "name": "Vintage Flashlight",
-        "discription": "Kyle Vonhipsters Vintage Flashlight is a 2D Puzzle Platformer where your source of light could be your source of plight... um yeah posting this last minute does not leave time for a good description. But you know you want to play it!",
-        "folder_name": "https://dylsdestiny.itch.io/vintage-flashlight"
+        "description": "Kyle Vonhipsters Vintage Flashlight is a 2D Puzzle Platformer where your source of light could be your source of plight... um yeah posting this last minute does not leave time for a good description. But you know you want to play it!",
+        "link": "https://dylsdestiny.itch.io/vintage-flashlight"
       },
       {
         "name": "OmASE",
-        "discription": "Omase ist ein Farminggame",
-        "folder_name": "https://janekx21.itch.io/omase"
+        "description": "Omase ist ein Farminggame",
+        "link": "https://janekx21.itch.io/omase"
       },
       {
         "name": "Power Per Hour",
-        "discription": "Ein Tic-80 Spile f�r den Ludum Dare #39",
-        "folder_name": "https://ldjam.com/events/ludum-dare/39/power-per-hour"
+        "description": "Ein Tic-80 Spile für den Ludum Dare #39",
+        "link": "https://ldjam.com/events/ludum-dare/39/power-per-hour"
       },
       {
         "name": "Dark Scrolls",
-        "discription": "Ein Top-Down Action hack and slash Adventure f�r den DevSquadJam",
-        "folder_name": "https://janekx21.itch.io/dark-scroll"
+        "description": "Ein Top-Down Action hack and slash Adventure für den DevSquadJam",
+        "link": "https://janekx21.itch.io/dark-scroll"
       },
       {
         "name": "Elias Chat",
-        "discription": "Simple Chat",
-        "folder_name": "webProjects/project11",
-        "outdate": 0
+        "description": "Simple Chat",
+        "link": "webProjects/project11"
       }
     ],
     [
       {
         "name": "Catoffel",
-        "discription": "Lustiges R�tselspiel f�r PC",
-        "folder_name": "https://www.youtube.com/watch?v=ruOVScMjLg8"
+        "description": "Lustiges Rätselspiel für PC",
+        "link": "https://www.youtube.com/watch?v=ruOVScMjLg8"
       },
       {
         "name": "Hand of God",
-        "discription": "Unity Spiel indem man seinen Planeten nach hause f�hren muss.( ludum-dare#38 )",
-        "folder_name": "https://ldjam.com/events/ludum-dare/38/$23261"
+        "description": "Unity Spiel indem man seinen Planeten nach hause fahren muss. (ludum-dare#38)",
+        "link": "https://ldjam.com/events/ludum-dare/38/$23261"
       },
       {
         "name": "RSS Mobile",
-        "discription": "Rainbow 6 Sige auf dem Handy",
-        "folder_name": "https://github.com/janekx21/RSSMobile"
+        "description": "Rainbow 6 Sige auf dem Handy",
+        "link": "https://github.com/janekx21/RSSMobile"
       },
       {
         "name": "Gun Gale",
-        "discription": "Unity Project 3. Persion Shooter",
-        "folder_name": "https://github.com/janekx21/Gun-Gale"
+        "description": "Unity Project 3. Persion Shooter",
+        "link": "https://github.com/janekx21/Gun-Gale"
       },
       {
         "name": "Puke Monster",
-        "discription": "Ein sehr kleines Tic-80 Spiel",
-        "folder_name": "../phaser/jss"
+        "description": "Ein sehr kleines Tic-80 Spiel",
+        "link": "../phaser/jss"
       },
       {
         "name": "Level Editor",
-        "discription": "Ein an Mario Maker angelehntes Spiel",
-        "folder_name": "https://github.com/janekx21/LevelEditor"
+        "description": "Ein an Mario Maker angelehntes Spiel",
+        "link": "https://github.com/janekx21/LevelEditor"
       }
     ]
   ],
-  "notused": [],
-  "nopic": [
+  "notUsed": [],
+  "noPicture": [
     {
       "name": "The Bridge",
-      "discription": "Ein Controller f�r HTML5 Gameengens",
-      "folder_name": "hardwareProjects/thebridge",
-      "outdate": 0
+      "description": "Ein Controller für HTML5 game engines",
+      "link": "hardwareProjects/thebridge"
     },
     {
       "name": "Vintage Flashlight Web Gl",
-      "discription": "We have uploaded this HTML5 Version of the game for people who arent able to download and play on windows.",
-      "folder_name": "https://dylsdestiny.itch.io/vintage-flashlight-webgl"
+      "description": "We have uploaded this HTML5 Version of the game for people who arent able to download and play on windows.",
+      "link": "https://dylsdestiny.itch.io/vintage-flashlight-webgl"
     },
     {
       "name": "Midi Controller",
-      "discription": "Ein Arduino Midi Controller",
-      "folder_name": "",
-      "outdate": 0
+      "description": "Ein Arduino Midi Controller",
+      "link": ""
     },
     {
       "name": "Chaser",
-      "discription": "Ein sehr kleines Tic-80 Spiel",
-      "folder_name": "../phaser/chase"
+      "description": "Ein sehr kleines Tic-80 Spiel",
+      "link": "../phaser/chase"
     }
   ]
 }
